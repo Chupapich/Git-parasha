@@ -23,7 +23,7 @@ while (true)
         a = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("Введите 2 переменную b= ");
         b = Convert.ToDouble(Console.ReadLine());
-        flag = true;//a
+        flag = true;
     }
     Console.WriteLine("Выбирите операцию \n 1-Сложение + \n 2-Вычитание - \n 3-Умножение * \n 4-Деление / \n 5-Выход ");
     vibor = Convert.ToInt32(Console.ReadLine());
